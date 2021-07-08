@@ -1,0 +1,5 @@
+server:
+  port: 8080
+netty:
+  port: 8088
+  url: 127.0.0.1
